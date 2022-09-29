@@ -25,7 +25,11 @@ public class Main {
 		B = Math.abs(z);// absolute value
 		System.out.println("Valor absoluto de " + y + " = " + A);
 		System.out.println("Valor absoluto de " + z + " = " + B);
-
+		
+		//delta == Math.pow(b, 2.0) - 4*a*c;
+		
+		// x1 = (-b + Math.sqrt(delta)) / (2.0 * a);
+		// x2 = (-b - Math.sqrt(delta)) / (2.0 * a);
 	}
 
 }
