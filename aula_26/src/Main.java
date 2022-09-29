@@ -44,7 +44,7 @@ public class Main {
 		x = sc.next();
 		b = sc.nextInt();
 		c = sc.nextDouble();
-		d = sc.next().charAt(0);
+		d = sc.next().charAt(0);// reading char
 		System.out.println("Dados digitados:");
 		System.out.println(x);
 		System.out.println(b);
