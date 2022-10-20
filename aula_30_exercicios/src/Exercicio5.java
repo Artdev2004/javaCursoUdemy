@@ -26,6 +26,7 @@ public class Exercicio5 {
 		
 		System.out.printf("VALOR A SER PAGO: U$%.2f", valor);
 		
+		sc.close();
 
 	}
 
