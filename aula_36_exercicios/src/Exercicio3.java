@@ -26,6 +26,8 @@ public class Exercicio3 {
 			System.out.println("NÃO SÃO MULTIPLOS");
 		}
 		
+		sc.close();
+		
 	}
 
 	}
