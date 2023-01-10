@@ -15,7 +15,7 @@ public class Exercicio5 {
 		
 		if(cod == 1) {
 			prc = qtd * 4.0;
-		}
+		} 
 		else if (cod == 2) {
 			prc = qtd * 4.5;
 		}

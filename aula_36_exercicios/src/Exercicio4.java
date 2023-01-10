@@ -14,9 +14,9 @@ public class Exercicio4 {
 		
 		if(hi == hf) {
 			System.out.println("O JOGO DUROU 24 HORA(S)");
-		}
-		else if(hi > hf) {
-			tot= hi - hf;
+		} 
+		else if(hi > hf) { 
+			tot= hi - hf; 
 			res = 24 - tot;
 			System.out.println("O JOGO DUROU " + res + " HORA(S)");
 		}
