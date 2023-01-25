@@ -7,7 +7,7 @@ public class Exercicio5 {
 		Locale.setDefault(Locale.US);
 		// TODO Auto-generated method stub
 		int num1, num2, qtd1, qtd2;
-		float sal, uni1, uni2, valor;
+		float uni1, uni2, valor;
 		
 		Scanner sc = new Scanner(System.in);
 		

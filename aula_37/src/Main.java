@@ -15,7 +15,7 @@ public class Main {
 		min = sc.nextInt();
 
 		if (min > 100) {
-			cont += (min - 100) * 2.0; // operador de atribuicao cumulativa += *= %= /=
+			cont += (min - 100) * 2.0; // operador de atribuicao cumulativa += *= %= /= -=
 		}
 		System.out.printf("Valor da conta = R$ %.2f", cont);
 		sc.close();
