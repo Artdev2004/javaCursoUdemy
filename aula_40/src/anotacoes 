@@ -1,6 +1,0 @@
-// Escopo e inicialização de variáveis
-// variaveis só podem ser acessadas dentro do bloco em que foram declaradas
-// a variável é criada no primeiro acesso a ela e destruida apos o interpretador sair
-// do bloco de execucao ao qual ela pertence.
-// o compilador não deixa uma várivel executar caso não for atribuido um valor a ela
-// a atribuição de valor a uma variável é chamada de inicialização
