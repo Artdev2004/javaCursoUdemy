@@ -10,6 +10,25 @@ public class Exercicio2 {
 		int y = sc.nextInt();
 		
 		while(x != 0) {
+			if(x > 0 ) {			
+				if(y > 0) {
+					System.out.println("Primeiro");
+				}	
+				else{
+					System.out.println("Quarto");
+				}
+				
+			}
+			else if(x < 0) {
+				if (y < 0) {
+					System.out.println("Terceiro");
+				}
+				else {
+					System.out.println("Segundo");
+				}
+			}
+			 x = sc.nextInt();
+			 y = sc.nextInt();
 			
 			
 		}
