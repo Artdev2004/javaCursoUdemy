@@ -1,15 +1,8 @@
 import java.util.Scanner;
 
 public class Exercicio3 {
-<<<<<<< HEAD
-	
-	public static void main(String args[]) {
-		
-		Scanner sc = new Scanner(System.in);
-		
-		
-		
-=======
+
+
 
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
@@ -18,9 +11,7 @@ public class Exercicio3 {
 		cd = sc.nextInt();
 		
 		while(cd != 4) {
-			while(cd < 1 || cd > 4) {
-				cd = sc.nextInt();
-			}
+		
 			if(cd == 1) {
 				all = all + 1;
 			}
@@ -37,7 +28,6 @@ public class Exercicio3 {
 		
 		
 
->>>>>>> 036bb336ead9c2966c29b35a2d61663bf84af86e
 	}
 
 }
